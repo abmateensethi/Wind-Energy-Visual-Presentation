@@ -24,4 +24,4 @@ To view the PowerPoint presentation:
 ---
 
 Author: Abdul Mateen  
-Connect on GitHub: [github.com/abmateensethi-png] (https://github.com/abmateensethi-png)
+Connect on GitHub: [github.com/abmateensethi] (https://github.com/abmateensethi)
